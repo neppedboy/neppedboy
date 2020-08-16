@@ -1,6 +1,7 @@
 ### WELCOME TO OUR DIMENSION👋
 
-<span style="font-size: 30px">Hello, My name is neppedboy, a.k.a <b>Никита, Ниппка<b>. I was create a Discord bots with my friends. I enjoying my life as programmer, really.
+<span style="font-size: 30px">Hello, My name is neppedboy, a.k.a <b>Никита, Ниппка, Чернильница, Чернецкий Никита</b>. 
+I create a Discord bots with my friends. I enjoying my life as programmer, really.
 So, welcome to my page, Friend!</span>
 <div style="width: 100%; display: flex">
    <div style="width: 50%">
