@@ -1,4 +1,4 @@
-### WELCOME TO OUR DIMENSION👋
+### WELCOME TO OUR DIMENSION...
 
 <span style="font-size: 30px">Hello, My name is neppedboy, a.k.a <b>Никита, Ниппка, Чернильница, Чернецкий Никита</b>. 
 I create a Discord bots with my friends. I enjoying my life as programmer, really.
