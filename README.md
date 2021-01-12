@@ -14,6 +14,6 @@
 
 <span style="font-size: 30px">Ниже, Вы можете увидеть мою статистику в github.</span>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=neppedboy&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://neppedcord.top)
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neppedboy&layout=compact&theme=material-palenight&count_private=true)](https://neppedcord.top)
+![stats](https://github-readme-stats.vercel.app/api?username=neppedboy&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neppedboy&layout=compact&theme=material-palenight&count_private=true)
   
