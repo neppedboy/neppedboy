@@ -12,6 +12,8 @@
     <a href="https://neppedcord.top/r/ds"><img src="https://invidget.switchblade.xyz/5dVTnpC?theme=dark" /></a>
   </div>
 
+<span style="font-size: 30px">Ниже, Вы можете увидеть мою статистику в github.</span>
+
 [![stats](https://github-readme-stats.vercel.app/api?username=neppedboy&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)](https://neppedcord.top)
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=neppedboy&layout=compact&theme=material-palenight&count_private=true)](https://neppedcord.top)
   
