@@ -1,4 +1,4 @@
-### Hello there, username!<br> 
+## Hello there, username!<br> 
 - My name is Artur (for strangers), i'm 17 and i live in Russia, Saint-Petersburg<br>
 - My place, where i work is a [NeppedCord Project](https://github.com/neppedcord)<br>
 
@@ -8,8 +8,8 @@
     <a href="https://discord.gg/nepnep"><img src="https://invidget.switchblade.xyz/nepnep?theme=dark" /></a>
   </div>
 
-<h1 align="left">My skills:</h3>
-
+## My skills here
+   
 ### Languages
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15" style="margin-right: 15px;">
