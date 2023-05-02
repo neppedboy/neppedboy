@@ -36,7 +36,7 @@
 <div style="display: flex; align-items: right;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="15" height="15" style="margin-right: 15px;">
   <span style="display: inline-flex; align-items: center;"><strong>Linux for server</strong></span>
-  <img src="https://raw.githubusercontent.com/neppedboy/neppedboy/c1a6bb712dfebe9e44bb255476f02f25af11b92f/images/archlinux.svg" width="15" height="15" style="margin-right: 15px;">
+  <img src="https://raw.githubusercontent.com/neppedboy/neppedboy/ebc0ef79430e02f81a45b3e48a9cdd629f98f144/images/archlinux.svg" width="15" height="15" style="margin-right: 15px;">
   <span style="display: inline-flex; align-items: center;"><strong>Arch Linux (btw)</strong></span><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="15" height="15" style="margin-right: 15px;">
   <span style="display: inline-flex; align-items: center; margin-left: 5px;"><strong>Windows (Abandoned)</strong></span>
