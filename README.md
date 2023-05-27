@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/neppedboy/neppedboy/ebc0ef79430e02f81a45b3e48a9cdd629f98f144/images/archlinux.svg" width="15" height="15" style="margin-right: 15px;">
   <span style="display: inline-flex; align-items: center;"><strong>Arch Linux (btw)</strong></span><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="15" height="15" style="margin-right: 15px;">
-  <span style="display: inline-flex; align-items: center; margin-left: 5px;"><strong>Windows (Abandoned)</strong></span>
+  <span style="display: inline-flex; align-items: center; margin-left: 5px;"><strong>Windows</strong></span>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" width="15" height="15" style="margin-left: 15px; margin-right: 15px;">
   <a href="https://www.reddit.com/r/hackintosh/comments/zkzwra/successful_update_from_monterey_to_ventura_amd_rx/" <span style="display: inline-flex; align-items: center;"><strong>macOS (Hackintosh)</strong></span></a>
 </div>
