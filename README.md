@@ -2,11 +2,7 @@
 - My name is Artur (for strangers), i'm 17 and i live in Russia, Saint-Petersburg<br>
 - My place, where i work is a [NeppedCord Project](https://github.com/neppedcord)<br>
 
-- You can know me from NeppedCord Server:
-<div style="width: 100%; display: flex">
-   <div style="width: 50%">
-    <a href="https://discord.gg/nepnep"><img src="https://invidget.switchblade.xyz/nepnep?theme=dark" /></a>
-  </div>
+- You can know me from [NeppedCord Server](https://nepnep.cc/discord)
 
 ## My skills here
    
