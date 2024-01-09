@@ -1,5 +1,5 @@
 ## Hello there, username!<br> 
-- My name is Artur (for strangers), i'm 17 and i live in Russia, Saint-Petersburg<br>
+- My name is Artur (for strangers), i'm 18 and i live in Russia, Saint-Petersburg<br>
 - My place, where i work is a [NeppedCord Project](https://github.com/neppedcord)<br>
 
 - You can know me from [NeppedCord Server](https://nepnep.cc/discord)
